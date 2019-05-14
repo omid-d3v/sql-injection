@@ -4,8 +4,8 @@ import urllib
 
 
 
-print "  }--------------{+} Coded By Xboy Hacker {+}--------------{"
-print "           }--------{+}  it-teach.net {+}--------{"
+print "  }--------------{+} Coded By OMID HK {+}--------------{"
+print "           }--------{+}  it-teach.ir {+}--------{"
 
 
 while(True):
